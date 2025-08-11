@@ -1,0 +1,543 @@
+{
+  "cards": [
+
+    {
+      "title": "0. The Fool",
+      "description": "The Fool represents new beginnings, spontaneity, and the freedom of unrestrained potential. It encourages taking a leap of faith and trusting the journey ahead, even when the outcome is uncertain.",
+      "phrase": "Step into the unknown with courage; the universe will guide your steps.",
+      "keywords": ["beginnings", "innocence", "adventure", "trust", "spontaneity"]
+    },
+    {
+      "title": "I. The Magician",
+      "description": "This card represents potential, manifestation, and the power to create one's reality. It symbolizes a connection between the spiritual and material realms, suggesting the ability to transform ideas into tangible results.",
+      "phrase": "You have all the tools you need for creating the stage and the life that you wish for.",
+      "keywords": ["manifestation", "willpower", "determination", "resources", "initiation"]
+    },
+
+    {
+      "title": "II. The High Priestess",
+      "description": "The High Priestess symbolizes intuition, hidden knowledge, and the mystery of the subconscious. She invites you to trust your inner wisdom and look beyond the surface.",
+      "phrase": "Listen to the silence; it holds the answers you seek.",
+      "keywords": ["intuition, mystery, inner voice, subconscious, sacred knowledge"]
+    },
+
+    {
+      "title": "III. The Empress",
+      "description": "The Empress embodies nurturing, abundance, and creative fertility. She represents growth in all forms — emotional, physical, and spiritual.",
+      "phrase": "Allow yourself to receive and to create; you are the source of life’s abundance.",
+      "keywords": ["nurturing, abundance, fertility, beauty, creativity"]
+    },
+
+    {
+      "title": "IV. The Emperor",
+      "description": "The Emperor symbolizes authority, structure, and stability. He represents leadership, discipline, and the power of taking control over your life.",
+      "phrase": "Build solid foundations with wisdom and strength.",
+      "keywords": ["authority, leadership, stability, structure, discipline"]
+    },
+
+    {
+      "title": "V. The Hierophant",
+      "description": "The Hierophant represents tradition, spiritual teachings, and the guidance of mentors or established systems. He encourages seeking wisdom through learning and connection with shared beliefs.",
+      "phrase": "Honor the wisdom of those who walked before you.",
+      "keywords": ["tradition, guidance, spirituality, learning, community"]
+    },
+
+    {
+      "title": "VI. The Lovers",
+      "description": "The Lovers symbolize meaningful connections, choices in relationships, and harmony between dualities. It often signals decisions that align with personal values.",
+      "phrase": "Choose with your heart, but align with your truth.",
+      "keywords": ["love, union, choices, harmony, alignment"]
+    },
+
+    {
+      "title": "VII. The Chariot",
+      "description": "The Chariot stands for determination, focus, and triumph over obstacles through willpower and control. It’s about harnessing conflicting forces and moving forward.",
+      "phrase": "Take the reins and steer your destiny.",
+      "keywords": ["victory, determination, focus, control, ambition"]
+    },
+
+    {
+      "title": "VIII. Strength",
+      "description": "Strength represents inner fortitude, compassion, and courage. It’s about mastering yourself through patience and grace rather than brute force.",
+      "phrase": "True strength is gentle and fearless.",
+      "keywords": ["courage, resilience, compassion, patience, inner power"]
+    },
+
+    {
+      "title": "IX. The Hermit",
+      "description": "The Hermit symbolizes introspection, solitude, and seeking inner truth. It calls for withdrawal from external noise to find wisdom within.",
+      "phrase": "Illuminate your path through inner reflection.",
+      "keywords": ["introspection, solitude, wisdom, guidance, contemplation"]
+    },
+
+    {
+      "title": "X. Wheel of Fortune",
+      "description": "The Wheel of Fortune signifies cycles, fate, and unexpected turns of destiny. It reminds you that change is constant and life is in perpetual motion.",
+      "phrase": "Embrace the ebb and flow; fortune spins ever onward.",
+      "keywords": ["destiny, cycles, change, luck, timing"]
+    },
+
+
+    {
+      "title": "XI. Justice",
+      "description": "Justice represents fairness, truth, and accountability. It speaks of cause and effect, encouraging integrity and balance in decisions.",
+      "phrase": "Let go and allow new vision to emerge.",
+      "keywords": ["surrender, perspective, patience, sacrifice, contemplation"]
+    },
+
+    {
+      "title": "XII. The Hanged Man",
+      "description": "The Hanged Man symbolizes surrender, a shift in perspective, and patience. It suggests pausing and seeing things from a different angle to find clarity.",
+      "phrase": "Let go and allow new vision to emerge.",
+      "keywords": ["surrender, perspective, patience, sacrifice, contemplation"]
+    },
+
+    {
+      "title": "XIII. Death",
+      "description": "Death marks endings, transformation, and rebirth. It signifies profound change, letting go of the old to make space for the new.",
+      "phrase": "Release what no longer serves; transformation awaits.",
+      "keywords": ["transformation, endings, rebirth, letting go, renewal"]
+    },
+
+    {
+      "title": "XIV. Temperance",
+      "description": "Temperance speaks of balance, harmony, and moderation. It encourages blending opposites and finding the middle path through patience and adaptability.",
+      "phrase": "Find your flow by blending and balancing.",
+      "keywords": ["balance, moderation, harmony, patience, alchemy"]
+    },
+    {
+      "title": "XV. The Devil",
+      "description": "The Devil represents bondage, temptation, and illusions of entrapment. It brings attention to destructive patterns and the need to reclaim personal power.",
+      "phrase": "Break free from what chains you.",
+      "keywords": ["temptation, addiction, control, materialism, shadow self"]
+    },
+    {
+      "title": "XVI. The Tower",
+      "description": "The Tower signifies sudden upheaval, revelations, and the collapse of false structures. Though disruptive, it clears the way for truth and growth.",
+      "phrase": "Embrace the storm; it's clearing a path for you.",
+      "keywords": ["upheaval, revelation, change, destruction, awakening"]
+    },
+    {
+      "title": "XVII. The Star",
+      "description": "The Star represents hope, inspiration, and spiritual guidance. It brings a sense of renewal and faith in a positive future.",
+      "phrase": "Your light is a guide through the darkness.",
+      "keywords": ["hope, inspiration, healing, guidance, serenity"]
+    },
+
+    {
+      "title": "XVIII. The Moon",
+      "description": "The Moon symbolizes illusion, intuition, and the mysteries of the subconscious. It warns of deception but also invites deeper exploration of emotions.",
+      "phrase": "Trust your inner vision, even through shadows.",
+      "keywords": ["illusion, intuition, mystery, emotions, subconscious"]
+    },
+    {
+      "title": "XIX. The Sun",
+      "description": "The Sun radiates joy, success, and clarity. It signifies positive energy, vitality, and the illumination of truth.",
+      "phrase": "Shine brightly; your path is clear and abundant.",
+      "keywords": ["success, joy, clarity, vitality, enlightenment"]
+    },
+    {
+      "title": "XX. Judgement",
+      "description": "Judgement speaks of self-evaluation, rebirth, and awakening. It encourages reflection on past actions and embracing a new chapter with renewed purpose.",
+      "phrase": "Rise above your past; your calling awaits.",
+      "keywords": ["rebirth, awakening, reflection, renewal, purpose"]
+    },
+    {
+      "title": "XXI. The World",
+      "description": "The World represents completion, fulfillment, and unity. It signifies achieving a goal and the wholeness that comes with integration and balance.",
+      "phrase": "Celebrate your journey; you are whole.",
+      "keywords": ["completion, fulfillment, harmony, unity, achievement"]
+    },
+
+    {
+      "title": "Ace of Wands",
+      "description": " A spark of inspiration, new creative beginnings, and passionate energy. It signifies the birth of ideas and opportunities.",
+      "phrase": "Ignite your passion; a new journey of creation begins.",
+      "keywords": [" inspiration, creation, energy, enthusiasm, new beginnings"]
+    },
+
+    {
+      "title": "Two of Wands",
+      "description": "Planning, foresight, and taking control of future actions. It invites you to envision your path beyond current boundaries.",
+      "phrase": "The world is in your hands; dare to plan boldly.",
+      "keywords": ["planning, decisions, foresight, exploration, ambition"]
+    },
+
+    {
+      "title": "Three of Wands",
+      "description": "Expansion, progress, and seeing the results of initial efforts. It suggests patience and strategic growth.",
+      "phrase": "Your efforts are setting sail towards new horizons.",
+      "keywords": ["progress, expansion, growth, opportunity, vision"]
+    },
+
+    {
+      "title": "Four of Wands",
+      "description": "Celebration, harmony, and a sense of community. Represents milestones, homecomings, or joyful gatherings.",
+      "phrase": "Celebrate the foundation you’ve built; joy multiplies when shared.",
+      "keywords": ["celebration, harmony, community, home, milestones"]
+    },
+    
+    {
+      "title": "Five of Wands",
+      "description": "Conflict, competition, and clashing ideas. It reflects the need for constructive debate and finding alignment.",
+      "phrase": "From friction, new solutions are born.",
+      "keywords": ["conflict, competition, challenge, tension, rivalry"]
+    },
+
+    {
+      "title": "Six of Wands",
+      "description": " Victory, public recognition, and success. A sign of achieving goals and receiving deserved accolades.",
+      "phrase": "Bask in the light of your accomplishments.",
+      "keywords": [" victory, recognition, success, pride, leadership"]
+    },
+
+    {
+      "title": "Seven of Wands",
+      "description": "Defense, perseverance, and standing your ground. It calls for courage to uphold your position.",
+      "phrase": "Hold your ground; your position is worth defending.",
+      "keywords": ["defense, courage, perseverance, resilience, competition"]
+    },
+
+    {
+      "title": "Eight of Wands",
+      "description": "Swift action, movement, and progress. Things are gaining momentum; stay focused.",
+      "phrase": "Ride the wave of acceleration; your goals are within reach.",
+      "keywords": ["speed, momentum, communication, travel, rapid progress"]
+    },
+    {
+      "title": "Nine of Wands",
+      "description": "Resilience, boundaries, and persistence despite challenges. You’re near completion but must guard your energy.",
+      "phrase": "Protect your progress; perseverance pays off.",
+      "keywords": ["resilience, boundaries, persistence, defense, endurance"]
+    },
+
+    {
+      "title": "Ten of Wands",
+      "description": "Burdens, responsibility, and feeling overworked. A reminder to delegate or release unnecessary loads.",
+      "phrase": "Release what weighs you down; not all burdens are yours to carry.",
+      "keywords": ["burden, responsibility, overwhelm, obligation, stress"]
+    },
+
+    {
+      "title": "Page of Wands",
+      "description": "Enthusiasm, curiosity, and a playful approach to new ventures. Represents a messenger of creativity.",
+      "phrase": "Explore with wonder; your journey is just beginning.",
+      "keywords": ["curiosity, inspiration, exploration, playfulness, messages"]
+    },
+
+    {
+      "title": "Knight of Wands",
+      "description": "Adventure, impulsiveness, and energetic pursuits. Embodies bold action and fearless exploration.",
+      "phrase": "Charge forward with passion, but watch for recklessness.",
+      "keywords": ["action, passion, impulsiveness, courage, adventure"]
+    },
+
+    {
+      "title": "Queen of Wands",
+      "description": "Confidence, charisma, and creative leadership. Represents someone who leads with passion and inspires others.",
+      "phrase": "Shine unapologetically; your fire ignites others.",
+      "keywords": ["confidence, independence, creativity, warmth, leadership"]
+    },
+
+    {
+      "title": "King of Wands",
+      "description": "Visionary leadership, authority, and strategic boldness. Embodies long-term vision paired with decisive action.",
+      "phrase": "Lead with vision; your fire shapes futures.",
+      "keywords": ["leadership, vision, entrepreneurship, boldness, influence"]
+    },
+
+    {
+      "title": "Ace of Cups",
+      "description": "Emotional beginnings, overflowing feelings, and spiritual connection. It symbolizes the opening of the heart and new emotional experiences.",
+      "phrase": "Let your heart overflow with love and new beginnings.",
+      "keywords": ["emotions, love, compassion, intuition, new relationships"]
+    },
+
+    {
+      "title": "Two of Cups",
+      "description": "Partnership, mutual respect, and emotional balance. Represents deep connections, unity, and shared feelings.",
+      "phrase": "Two hearts meet in mutual understanding.",
+      "keywords": ["union, partnership, harmony, connection, attraction"]
+    },
+
+    {
+      "title": "Three of Cups",
+      "description": "Celebration, friendship, and joyful community. It’s a card of social gatherings and emotional support among friends.",
+      "phrase": "Celebrate with those who uplift your spirit.",
+      "keywords": ["celebration, friendship, community, joy, collaboration"]
+    },
+
+    {
+      "title": "Four of Cups",
+      "description": "Contemplation, discontent, and emotional reevaluation. It suggests needing to reassess desires and opportunities.",
+      "phrase": "Look beyond apathy; hidden gifts await.",
+      "keywords": ["contemplation, apathy, reevaluation, discontent, introspection"]
+    },
+
+    {
+      "title": "Five of Cups",
+      "description": "Loss, regret, and focusing on the negative. However, it also calls for shifting perspective towards remaining opportunities.",
+      "phrase": "Mourn, but don’t miss the blessings that remain.",
+      "keywords": ["grief, regret, loss, perspective, disappointment"]
+    },
+
+    {
+      "title": "Six of Cups",
+      "description": "Nostalgia, childhood memories, and kindness. Reflects on the past with warmth and encourages simple joys.",
+      "phrase": "Reconnect with innocent joy and kindness.",
+      "keywords": ["nostalgia, memories, innocence, generosity, childhood"]
+    },
+
+    {
+      "title": "Seven of Cups",
+      "description": "Choices, illusions, and wishful thinking. Warns of being overwhelmed by fantasies and indecision.",
+      "phrase": "Discern reality from illusion before choosing your path.",
+      "keywords": ["choices, illusion, temptation, fantasy, indecision"]
+    },
+
+    {
+      "title": "Eight of Cups",
+      "description": "Walking away, emotional detachment, and seeking deeper meaning. It’s a journey of leaving behind unfulfilling situations.",
+      "phrase": "Let go and seek what truly fulfills you.",
+      "keywords": ["departure, quest, emotional growth, letting go, introspection"]
+    },
+
+    {
+      "title": "Nine of Cups",
+      "description": "Contentment, satisfaction, and wishes fulfilled. It represents emotional well-being and enjoying life’s pleasures.",
+      "phrase": "Your heart’s desires are within reach.",
+      "keywords": ["satisfaction, gratitude, fulfillment, pleasure, wishes"]
+    },
+
+    {
+      "title": "Ten of Cups",
+      "description": "Emotional harmony, family joy, and lasting happiness. It signifies emotional fulfillment and community well-being.",
+      "phrase": "Embrace the joy of shared love and harmony.",
+      "keywords": ["happiness, family, harmony, fulfillment, blessings"]
+    },
+
+    {
+      "title": "Page of Cups",
+      "description": "Creative inspiration, emotional curiosity, and messages of love. Represents a youthful, open-hearted energy.",
+      "phrase": "Stay open to surprise gifts of the heart.",
+      "keywords": ["curiosity, messages, creativity, emotion, intuition"]
+    },
+
+    {
+      "title": "Knight of Cups",
+      "description": "Romantic gestures, idealism, and pursuing dreams with heart. Embodies a quest for beauty and emotional depth.",
+      "phrase": "Follow your heart’s quest with grace and imagination.",
+      "keywords": ["romance, charm, idealism, creativity, pursuit"]
+    },
+
+    {
+      "title": "Queen of Cups",
+      "description": "Compassion, emotional depth, and intuitive understanding. Represents nurturing, empathy, and deep sensitivity.",
+      "phrase": "Embrace your heart’s wisdom with gentle strength.",
+      "keywords": ["compassion, intuition, empathy, sensitivity, nurturing"]
+    },
+
+    {
+      "title": "King of Cups",
+      "description": "Emotional balance, wisdom, and compassionate leadership. Embodies calmness amidst emotional currents.",
+      "phrase": "Lead with a heart that listens and understands.",
+      "keywords": ["balance, diplomacy, compassion, maturity, emotional control"]
+    }, 
+
+    {
+      "title": "Ace of Swords",
+      "description": "Mental clarity, truth, and intellectual breakthroughs. Represents new ideas and decisive action.",
+      "phrase": "Cut through illusion; clarity is your sword.",
+      "keywords": ["clarity, truth, intellect, new ideas, breakthroughs"]
+    },
+    
+    {
+      "title": "Two of Swords",
+      "description": "Indecision, stalemate, and difficult choices. It calls for inner reflection and balancing logic with intuition.",
+      "phrase": "In stillness, the right path reveals itself.",
+      "keywords": ["indecision, choices, balance, reflection, impasse"]
+    },
+
+    {
+      "title": "Three of Swords",
+      "description": "Heartbreak, emotional pain, and sorrow. A reminder that emotional wounds need acknowledgment for healing.",
+      "phrase": "Feel the pain, for it will teach you how to heal.",
+      "keywords": ["heartbreak, sorrow, grief, betrayal, emotional release"]
+    },
+
+    {
+      "title": "Four of Swords",
+      "description": "Rest, recovery, and contemplation. It’s a pause to regain strength before the next challenge.",
+      "phrase": "Retreat into stillness to restore your inner peace.",
+      "keywords": ["rest, recovery, meditation, retreat, healing"]
+    },
+
+    {
+      "title": "Five of Swords",
+      "description": "Conflict, defeat, and hollow victories. Highlights the cost of winning at any price and invites reflection.",
+      "phrase": "Choose your battles wisely; not all victories are worth the loss.",
+      "keywords": ["conflict, defeat, ego, tension, reflection"]
+    },
+
+    {
+      "title": "Six of Swords",
+      "description": " Transition, moving forward, and mental release. Represents leaving difficulties behind towards a calmer future.",
+      "phrase": "Sail towards clarity, leaving the storm behind.",
+      "keywords": ["transition, journey, healing, progress, moving on"]
+    },
+
+    {
+      "title": "Seven of Swords",
+      "description": "Deception, strategy, and acting discreetly. It can signify cunning plans or the need to avoid self-deception.",
+      "phrase": "Move smartly, but stay aligned with integrity.",
+      "keywords": ["strategy, deception, secrecy, cleverness, stealth"]
+    },
+
+    {
+      "title": "Eight of Swords",
+      "description": "Restriction, self-imposed limitations, and feeling trapped. Encourages recognizing that freedom starts within.",
+      "phrase": "The ties that bind are often illusions.",
+      "keywords": ["restriction, entrapment, self-limitation, fear, paralysis"]
+    },
+
+    {
+      "title": "Nine of Swords",
+      "description": "Anxiety, worry, and sleepless nights. It reflects mental overactivity and the need for compassionate self-talk.",
+      "phrase": "Release the fears that haunt your mind’s silence.",
+      "keywords": ["anxiety, worry, guilt, sleeplessness, inner turmoil"]
+    },
+
+    {
+      "title": "Ten of Swords",
+      "description": "Painful endings, betrayal, and rock bottom. Although difficult, it marks the end of a cycle and a chance to rise anew.",
+      "phrase": "From complete surrender, rebirth begins.",
+      "keywords": ["endings, betrayal, loss, surrender, finality"]
+    },
+
+    {
+      "title": "Page of Swords",
+      "description": "Curiosity, vigilance, and mental agility. Represents a thirst for knowledge and uncovering hidden truths.",
+      "phrase": "Question everything, and stay sharp.",
+      "keywords": ["curiosity, communication, alertness, ideas, observation"]
+    },
+
+    {
+      "title": "Knight of Swords",
+      "description": "Action, determination, and charging ahead. Embodies ambitious pursuit of goals, but warns against haste.",
+      "phrase": "Race towards your goal, but mind the winds of recklessness.",
+      "keywords": ["ambition, action, bravery, impulsiveness, drive"]
+    },
+
+    {
+      "title": "Queen of Swords",
+      "description": " Honesty, perception, and clear judgment. Represents mental clarity paired with emotional maturity.",
+      "phrase": "Speak your truth with grace and discernment.",
+      "keywords": ["clarity, wisdom, independence, intellect, honesty"]
+    },
+
+    {
+      "title": "King of Swords",
+      "description": "Authority, intellect, and strategic leadership. Embodies logic-driven decisions with fairness and precision.",
+      "phrase": "Lead with reason, and justice will follow.",
+      "keywords": ["authority, strategy, intellect, truth, leadership"]
+    },
+
+    {
+      "title": "Ace of Pentacles",
+      "description": " New opportunities in wealth, career, or material stability. Represents the seed of prosperity and grounded beginnings.",
+      "phrase": "Plant the seed of abundance; nurture it with intent.",
+      "keywords": ["prosperity, opportunity, manifestation, stability, new beginnings"]
+    },
+
+    {
+      "title": "Two of Pentacles",
+      "description": "Balance, adaptability, and juggling responsibilities. It reflects the need for flexibility in managing life’s demands.",
+      "phrase": "Stay fluid as you balance life's dance.",
+      "keywords": ["balance, adaptability, multitasking, time management, flexibility"]
+    },
+
+    {
+      "title": "Three of Pentacles",
+      "description": "Collaboration, craftsmanship, and teamwork. Highlights the power of shared effort and recognition of skills.",
+      "phrase": "Build together; mastery grows through collaboration.",
+      "keywords": ["teamwork, craftsmanship, collaboration, recognition, foundation"]
+    },
+
+    {
+      "title": "Four of Pentacles",
+      "description": "Security, control, and holding onto resources. Warns against excessive possessiveness or fear of loss.",
+      "phrase": "Hold on, but know when to let go.",
+      "keywords": ["security, control, possession, stability, conservation"]
+    },
+
+    {
+      "title": "Five of Pentacles",
+      "description": "Financial hardship, isolation, and insecurity. A reminder that support is available if you seek it.",
+      "phrase": "In times of need, look for the light of support.",
+      "keywords": ["hardship, poverty, isolation, insecurity, struggle"]
+    },
+
+    {
+      "title": "Six of Pentacles",
+      "description": "Generosity, sharing wealth, and balance of giving and receiving. Represents charity, fairness, and flow of abundance.",
+      "phrase": "Give with an open heart; receive with gratitude.",
+      "keywords": ["generosity, balance, charity, sharing, fairness"]
+    },
+
+    {
+      "title": "Seven of Pentacles",
+      "description": "Patience, long-term investment, and assessing progress. Encourages reflection on efforts and future rewards.",
+      "phrase": "Pause and evaluate; growth takes time.",
+      "keywords": ["patience, assessment, investment, growth, perseverance"]
+    },
+
+    {
+      "title": "Eight of Pentacles",
+      "description": "Skill development, hard work, and dedication. It signifies honing your craft through focused effort.",
+      "phrase": "Mastery is born from dedication and repetition.",
+      "keywords": ["craftsmanship, diligence, focus, learning, improvement"]
+    },
+
+    {
+      "title": "Nine of Pentacles",
+      "description": " Self-sufficiency, luxury, and enjoying the fruits of labor. Embodies independence and personal success.",
+      "phrase": "Revel in the abundance you've cultivated.",
+      "keywords": ["self-sufficiency, luxury, independence, success, fulfillment"]
+    },
+
+    {
+      "title": "Ten of Pentacles",
+      "description": "Legacy, family wealth, and long-term stability. Represents generational success and lasting achievements.",
+      "phrase": "Build a legacy that stands the test of time.",
+      "keywords": ["legacy, family, stability, inheritance, long-term success"]
+    },
+
+    {
+      "title": "Page of Pentacles",
+      "description": "Ambition, new studies, and laying solid foundations. Represents a thirst for learning and material growth.",
+      "phrase": "Set your intentions; the path of learning begins.",
+      "keywords": ["ambition, learning, manifestation, opportunity, practicality"]
+    },
+
+    {
+      "title": "Knight of Pentacles",
+      "description": "Hard work, reliability, and steady progress. Embodies persistence and dedication to long-term goals.",
+      "phrase": "Move with purpose; consistency builds empires.",
+      "keywords": ["diligence, patience, responsibility, loyalty, hard work"]
+    },
+
+    {
+      "title": "Queen of Pentacles",
+      "description": "Nurturing abundance, practicality, and resourcefulness. Represents creating comfort and stability for oneself and others.",
+      "phrase": "Cultivate abundance with care and grounded wisdom.",
+      "keywords": ["nurturing, practicality, abundance, resourcefulness, stability"]
+    },
+
+    {
+      "title": "King of Pentacles",
+      "description": "Wealth, leadership, and mastery over material realms. Embodies success, security, and generosity through wisdom.",
+      "phrase": "Lead with wisdom; prosperity follows those who stay grounded.",
+      "keywords": ["wealth, success, leadership, stability, generosity"]
+    }
+  ]
+}
